@@ -7,7 +7,7 @@ namespace VaccineRegistrationSystem
        
         static void Main(string[] args)
         {
-            int ID;
+            
 
             Console.WriteLine("Enter ID: ");
             Console.ReadLine();
